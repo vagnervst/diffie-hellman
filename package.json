@@ -1,0 +1,15 @@
+{
+  "name": "diffie-hellman",
+  "version": "0.1.0",
+  "description": "Diffie-hellman usage for message exchanging",
+  "main": "index.js",
+  "author": "Vagner S <vagnervst17@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "2.0.4"
+  }
+}
